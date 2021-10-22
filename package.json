@@ -1,6 +1,6 @@
 {
-  "name": "tt-react-custom-scrollbars",
-  "version": "4.2.1-tt2",
+  "name": "customizable-scrollbars",
+  "version": "1",
   "description": "React scrollbars component",
   "main": "lib/index.js",
   "scripts": {
@@ -16,22 +16,34 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mwolson/react-custom-scrollbars.git"
+    "url": "https://github.com/GetHypercube/customizable-scrollbars"
   },
   "keywords": [
     "scroll",
-    "scroller",
     "scrollbars",
     "react-component",
     "react",
     "custom"
   ],
-  "author": "Malte Wessel",
+  "contributors": [
+    {
+      "name": "Samuel Vazquez",
+      "url": "https://github.com/CodeXMakerCompany"
+    },
+    {
+      "name": "Fredy Osorio",
+      "url": "https://github.com/fredyosorio"
+    },
+    {
+      "name": "Luis Cosio",
+      "url": "https://github.com/luiscosio"
+    }
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/malte-wessel/react-custom-scrollbars/issues"
+    "url": "https://github.com/GetHypercube/customizable-scrollbars/issues"
   },
-  "homepage": "https://github.com/mwolson/react-custom-scrollbars",
+  "homepage": "https://github.com/GetHypercube/customizable-scrollbars",
   "devDependencies": {
     "babel-cli": "^6.2.0",
     "babel-core": "^6.2.1",
@@ -69,8 +81,8 @@
     "webpack-dev-server": "^1.8.2"
   },
   "peerDependencies": {
-    "react": "^0.14.0 || ^15.0.0 || ^16.0.0",
-    "react-dom": "^0.14.0 || ^15.0.0 || ^16.0.0"
+    "react": "^0.14.0 || ^15.0.0 || ^16.0.0 || ^17.0.0",
+    "react-dom": "^0.14.0 || ^15.0.0 || ^16.0.0 || ^17.0.0"
   },
   "dependencies": {
     "dom-css": "^2.0.0",
