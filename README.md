@@ -1,4 +1,4 @@
-react-custom-scrollbars
+customizable-scrollbars
 =========================
 
 [![npm](https://img.shields.io/badge/npm-react--custom--scrollbars-brightgreen.svg?style=flat-square)]()
