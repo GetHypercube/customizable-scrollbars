@@ -40,7 +40,9 @@ export default class App extends Component {
                     <i className="fa fa-random"/> Random position
                 </button>
                 <p>
-                    The Scrollbars are animated with <strong><a href="https://github.com/facebook/rebound-js" target="_blank" rel="noreferrer">Rebound</a></strong>. You can simply animate the Scrollbars with <code>scrollbars.scrollTop(x)</code>. Don't forget to wrap your steps with <code>requestAnimationFrame</code>.
+                    The Scrollbars are animated with 
+                    <strong><a href="https://github.com/facebook/rebound-js" target="_blank" rel="noreferrer">Rebound</a></strong>. 
+                    You can simply animate the Scrollbars with <code>scrollbars.scrollTop(x)</code>. Don't forget to wrap your steps with <code>requestAnimationFrame</code>.
                 </p>
             </div>
         );
