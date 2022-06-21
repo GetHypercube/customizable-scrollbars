@@ -17,16 +17,9 @@ customizable-scrollbars
 
 **[Demos](http://malte-wessel.github.io/react-custom-scrollbars/) · [Documentation](https://github.com/malte-wessel/react-custom-scrollbars/tree/master/docs)**
 
-## Changes in tt-react-custom-scrollbars fork
+## Original project
 
-* Show custom scrollbars and hide native scrollbars on browsers that don't have scrollbar width
-* Redraw the scrollbar if its width changed due to unplugging a monitor
-* Protect against some cases where refs may be undefined
-* For Chrome on Windows, don't shake left and right by 1 pixel in small width webapps
-
-Original project: https://github.com/malte-wessel/react-custom-scrollbars
-
-Some changes applied from https://github.com/danbrianwhite/react-custom-scrollbars/tree/apple-scrollbars
+https://github.com/malte-wessel/react-custom-scrollbars
 
 ## Installation
 ```bash
